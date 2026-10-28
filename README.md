@@ -1,6 +1,6 @@
 # QA Automation Portfolio
 
-[![Playwright Tests](https://github.com/florenciagomezsdet/qa-automation-portfolio/actions/workflows/playwright.yml/badge.svg)](https://github.com/florenciagomezsdet/qa-automation-portfolio/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/florenciagomezsdet/tallerinterview/actions/workflows/playwright.yml/badge.svg)](https://github.com/florenciagomezsdet/tallerinterview/actions/workflows/playwright.yml)
 
 End-to-end UI and API test automation built with **Playwright + TypeScript**, running on every push through **GitHub Actions**.
 
